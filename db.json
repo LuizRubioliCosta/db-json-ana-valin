@@ -100,6 +100,25 @@
         "tidalImgUrl": "../assets/tidal.png",
         "youtubeImgUrl": "../assets/youtube-2.png"
       }
+    },
+    {
+      "id": "LfoxoBh",
+      "title": "t",
+      "imgUrl": "C:\\fakepath\\IMG_1902.JPG",
+      "links": {
+        "appleUrl": "t",
+        "deezerUrl": "t",
+        "spotifyUrl": "t",
+        "tidalUrl": "t",
+        "youtubeUrl": "t]"
+      },
+      "foto": {
+        "appleImgUrl": "../assets/apple.png",
+        "deezerImgUrl": "../assets/deezer.png",
+        "spotifyImgUrl": "../assets/spotify-2.png",
+        "tidalImgUrl": "../assets/tidal.png",
+        "youtubeImgUrl": "../assets/youtube-2.png"
+      }
     }
   ],
   "biografia": [
@@ -216,6 +235,12 @@
       "nome": "adriana",
       "text": "test",
       "id": "q3oJwap"
+    }
+  ],
+  "images": [
+    {
+      "id": "1",
+      "image": ""
     }
   ]
 }
